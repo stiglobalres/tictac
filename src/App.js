@@ -1,11 +1,7 @@
 import React, {useState, useEffect} from 'react';
-import { View, Text, StyleSheet, StatusBar, TouchableOpacity, Alert } from 'react-native';
-
-import {SafeAreaProvider} from 'react-native-safe-area-context';
+import { View, Text, TouchableOpacity } from 'react-native';
 
 import Icon from 'react-native-vector-icons/Ionicons';
-
-import FontAwesome from 'react-native-vector-icons/FontAwesome';
 
 import main from './../styles/main';
 
